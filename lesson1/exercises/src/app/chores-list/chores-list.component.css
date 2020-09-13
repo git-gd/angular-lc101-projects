@@ -1,0 +1,11 @@
+h3 {
+    text-decoration: underline;
+    color: #660000;
+}
+
+li {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: larger;
+    font-style: italic;
+    color: #990000;
+}
