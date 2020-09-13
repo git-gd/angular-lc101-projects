@@ -7,6 +7,7 @@ import { ChoresListComponent } from './chores-list/chores-list.component';
 import { FavPhotosComponent } from './fav-photos/fav-photos.component';
 import { PageTitleComponent } from './page-title/page-title.component';
 import { FavLinksComponent } from './fav-links/fav-links.component';
+import { FunGifComponent } from './fun-gif/fun-gif.component';
 
 @NgModule({
   declarations: [
@@ -15,7 +16,8 @@ import { FavLinksComponent } from './fav-links/fav-links.component';
     ChoresListComponent,
     FavPhotosComponent,
     PageTitleComponent,
-    FavLinksComponent
+    FavLinksComponent,
+    FunGifComponent
   ],
   imports: [
     BrowserModule
