@@ -1,3 +1,6 @@
-<div *ngFor = "let link of favLinks">
+<div class="row justify-content-center">
+    <h3>{{favTitle}}</h3>
+</div>
+<div class="row justify-content-center" *ngFor = "let link of favLinks">
     <a href="{{link}}">{{link}}</a>
 </div>
