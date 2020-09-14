@@ -6,6 +6,23 @@
     color: #3c79b8;
 }
 
+#workHarder {
+    color: red;
+    animation: fadeToBlack 1s infinite;
+}
+
+@keyframes fadeToBlack {
+    0% {
+        color: red;
+    }
+    50% {
+        color: black;
+    }
+    100% {
+        color: red;
+    }
+}
+
 h3 {
     text-align: center;
 }
