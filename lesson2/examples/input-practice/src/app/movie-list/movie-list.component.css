@@ -9,3 +9,8 @@
  .center {
     text-align: center;
  }
+
+ #movieError {
+    color: white;
+    background: darkred;
+ }
