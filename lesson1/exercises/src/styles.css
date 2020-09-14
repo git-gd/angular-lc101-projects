@@ -5,18 +5,12 @@ body {
 
 @keyframes itssopretty {
 	0% {
-		background: #000000;
-	}
-	25% {
-		background: #FF0000;
+		background: #003030;
 	}
 	50% {
-		background: #00FF00;
-	}
-	75% {
-		background: #0000FF;
+		background: #303030;
 	}
 	100% {
-		background: #000000;
+		background: #003030;
 	}
 }
