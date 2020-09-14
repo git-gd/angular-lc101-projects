@@ -31,6 +31,8 @@ export class CandidatesComponent implements OnInit {
   }
 
   // BONUS: Code the changeMissionName function here:
-
+  changeMissionName(newValue) {
+    this.missionName = newValue;
+  }
 
 }
