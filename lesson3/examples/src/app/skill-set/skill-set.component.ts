@@ -11,7 +11,8 @@ export class SkillSetComponent implements OnInit {
    alternateColor: string = 'black';
    bulletType: string = 'A';
    changeColor: boolean = true;
-
+   isReversed: string = 'reversed';
+   
    constructor() { }
 
    ngOnInit() { }
